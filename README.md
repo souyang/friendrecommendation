@@ -10,4 +10,11 @@ The purpose of this implementation is to be able to automatically obtain the top
 
 The tools and packages includes: 
 Tools:
+
+Hadoop Cluster
+
+Packages:
+
 Hadoop MapReduce
+
+Hadoop IO
