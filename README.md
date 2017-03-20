@@ -4,7 +4,7 @@ The purpose of this implementation is to be able to automatically obtain the top
 
 ## Solution flow diagram
 
-![alt text] (https://github.com/souyang/friendrecommendation/blob/master/FriendRecomendation-FlowChart.png)
+![alt text](https://github.com/souyang/friendrecommendation/blob/master/FriendRecomendation-FlowChart.png)
 
 ## Tools and packages used
 
